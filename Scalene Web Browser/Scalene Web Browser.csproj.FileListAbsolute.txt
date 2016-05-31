@@ -1,0 +1,14 @@
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\bin\Debug\Scalene Web Browser.exe.config
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.csprojResolveAssemblyReference.cache
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene_Web_Browser.Form1.resources
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene_Web_Browser.Properties.Resources.resources
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.csproj.GenerateResource.Cache
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\bin\Debug\Scalene Web Browser.exe
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\bin\Debug\Scalene Web Browser.pdb
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.exe
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.pdb
+c:\users\the mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.TrustInfo.xml
+C:\Users\The Mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\bin\Debug\Scalene Web Browser.exe.manifest
+C:\Users\The Mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\bin\Debug\Scalene Web Browser.application
+C:\Users\The Mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.exe.manifest
+C:\Users\The Mighty\documents\visual studio 2015\Projects\Scalene Web Browser\Scalene Web Browser\obj\Debug\Scalene Web Browser.application
